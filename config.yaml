@@ -1,0 +1,9 @@
+filename: superscore_vida_seguros_rgfvv
+basepath: super-score
+path: renta-garantizada/general
+queryName: bl_superscore_vida_seguros_rgffvv
+countries: 
+    - name: India
+      capital: Delhi
+    - name: Singapore
+      capital: Singapore
